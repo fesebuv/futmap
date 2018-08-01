@@ -1,0 +1,23 @@
+{
+  "name": "futmap",
+  "version": "0.0.1",
+  "description": "Football Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fesebuv/futmap.git"
+  },
+  "keywords": [
+    "Football",
+    "Map"
+  ],
+  "author": "fesebuv",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fesebuv/futmap/issues"
+  },
+  "homepage": "https://github.com/fesebuv/futmap#readme"
+}
