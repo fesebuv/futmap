@@ -4,6 +4,7 @@
   "description": "Football Map",
   "main": "index.js",
   "scripts": {
+    "start": "${NODE_BIN:-node} index.js",
     "test": "echo "
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fesebuv/futmap/issues"
   },
-  "homepage": "https://github.com/fesebuv/futmap#readme"
+  "homepage": "https://github.com/fesebuv/futmap#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
